@@ -1,2 +1,2 @@
-fisrt line
+fisrt line~
 second line~
